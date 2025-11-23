@@ -34,12 +34,12 @@ export const projects: Project[] = [
 ];
 
 export const personalInfo = {
-  name: 'Tu Nombre',
-  title: 'Full Stack Developer',
-  description: 'Desarrollador apasionado por crear experiencias web excepcionales',
-  email: 'tu@email.com',
-  github: 'https://github.com/tuusuario',
-  linkedin: 'https://linkedin.com/in/tuusuario',
-  siteUrl: 'https://tuportafolio.com', // Importante para sitemap
+  name: 'Eduardo Fernando Bullon Vera',
+  title: 'Desarrollo de Software | Backend | Frontend | SCRUM | MySQL',
+  description: 'Desarrollador de software apasionado por crear soluciones tecnológicas innovadoras',
+  email: 'eduardobullonvera@gmail.com',
+  github: 'https://github.com/EduardoBullon',
+  linkedin: 'https://www.linkedin.com/in/eduardo-bullon/',
+  siteUrl: 'https://eduardo-bullon.vercel.app', // Importante para sitemap
   avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop',
 };
