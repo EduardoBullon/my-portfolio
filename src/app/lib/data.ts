@@ -41,5 +41,5 @@ export const personalInfo = {
   github: 'https://github.com/EduardoBullon',
   linkedin: 'https://www.linkedin.com/in/eduardo-bullon/',
   siteUrl: 'https://my-portfolio-black-chi-rco85s9pi.vercel.app', // Importante para sitemap
-  avatar: 'https://media.licdn.com/dms/image/v2/D4D03AQFbnk6LQ2_LsQ/profile-displayphoto-shrink_400_400/B4DZcP3VqXGcAg-/0/1748317854800?e=1765411200&v=beta&t=uA_yVLxZsukskyDeU6rNIDcRvR57Ry1Gsv-RBI7i1QA',
+  avatar: '/perfil.jpg',
 };
