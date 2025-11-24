@@ -10,13 +10,13 @@ export default function Home() {
   return (
     <div className="container mx-auto px-4 py-12">
       {/* Hero Section */}
-      <section className="text-center mb-20">
+      <section className="bg-gradient-to-br from-cyan-50 to-blue-100 rounded-3xl p-12 text-center mb-20 shadow-lg">
         <div className="relative w-32 h-32 mx-auto mb-6">
           <Image
             src={personalInfo.avatar}
             alt={personalInfo.name}
             fill
-            className="rounded-full object-cover"
+            className="rounded-full object-cover border-4 border-white shadow-xl"
             priority
             sizes="128px"
           />
@@ -24,7 +24,7 @@ export default function Home() {
         <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
           {personalInfo.name}
         </h1>
-        <p className="text-xl md:text-2xl text-gray-600 mb-6">
+        <p className="text-xl md:text-2xl text-gray-800 mb-6 font-medium">
           {personalInfo.title}
         </p>
         <p className="text-lg text-gray-700 max-w-2xl mx-auto mb-8">

@@ -40,6 +40,6 @@ export const personalInfo = {
   email: 'eduardobullonvera@gmail.com',
   github: 'https://github.com/EduardoBullon',
   linkedin: 'https://www.linkedin.com/in/eduardo-bullon/',
-  siteUrl: 'https://eduardo-bullon.vercel.app', // Importante para sitemap
+  siteUrl: 'https://my-portfolio-black-chi-rco85s9pi.vercel.app', // Importante para sitemap
   avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop',
 };
